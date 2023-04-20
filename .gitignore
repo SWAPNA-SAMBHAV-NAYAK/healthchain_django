@@ -1,0 +1,3 @@
+./diagnosisAi/migrations/
+./healthchain_env/
+./**/__pycache__
